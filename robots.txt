@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vladekmarch.github.io/shelter12/sitemap.xml
